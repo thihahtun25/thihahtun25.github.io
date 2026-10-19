@@ -1,0 +1,20 @@
+h1{
+    /* color red; */
+    /* 0 to 9,a to f */
+    /* rgb */
+    /* Hex code */
+    /* color:#ff0000; */
+
+    /* short Hex Code  */
+    /* color: #f00; */
+
+    /* rgb */
+    /* 0 to 255 */
+    color: rgb(255, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    background-color: rgb(161,150,120);
+    text-indent: 50px;
+}
